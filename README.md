@@ -1,2 +1,2 @@
 # Upskill-campus-Akarsh-kumar
-I am created File Manager/ File explorer Using Python. This File Manager can perform the tasks like Creating Folder, Deleting Folder, Renaming Folder and Other tasks.
+It is a desktop based application used to manage banking transactions, accounts, mini statements and more functionalities like as ATM. In this project Java core, Java swing, Java awt, sql and Jdbc connectivity and Jar files are used.
